@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="d_pos_btn">See in Map</string>
+    <string name="d_nev_btn">Close</string>
 </resources>
