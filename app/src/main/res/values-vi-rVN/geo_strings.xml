@@ -2,4 +2,8 @@
 <resources>
     <string name="d_pos_btn">Xem trên bản </string>
     <string name="d_nev_btn">Đóng</string>
+    <string name="d_neu_btn">Lưu</string>
+    <string name="d_author">Tác giả</string>
+    <string name="d_version">Phiên bản</string>
+    <string name="d_act_name">Phần mềm</string>
 </resources>
